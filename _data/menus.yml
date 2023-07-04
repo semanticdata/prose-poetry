@@ -4,9 +4,9 @@
 - default: menu_category
   url:   "category"
 
-- title: "Jekyll Paper"
-  absoluteUrl: true
-  url: "https://github.com/semanticdata"
+# - title: "Jekyll Paper"
+#   absoluteUrl: true
+#   url: "https://github.com/semanticdata"
 
 - default: menu_about
   url:   "about"
