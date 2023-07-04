@@ -48,21 +48,3 @@ You can add or update navigation menu items in `_data/menus.yml` file. In the co
 - title: "About"
   url:   "about"
 ```
-
-## Screenshots
-
-The home page:
-
-![Index](./assets/images/index-screenshot.png)
-
-The post page:
-
-![Post](./assets/images/post-screenshot.png)
-
-The category page:
-
-![Category](./assets/images/category-screenshot.png)
-
-The home page in mobile version:
-
-![Mobile](./assets/images/mobile-screenshot.png)
