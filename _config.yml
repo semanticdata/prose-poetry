@@ -11,7 +11,7 @@ keywords: [blog, poetry, prose-poetry]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://semanticdata.github.io/jekyll-paper" # base hostname & protocol, e.g. http://example.com
 domain: "Miguel Pimentel" # domain name for site, e.g. example.com
-language: en
+language: [en, es, fr]
 # Supported languages list:
 # es: Español (Spanish)
 # fr: Français (French)
@@ -31,7 +31,7 @@ permalink: /:year/:month/:day/:title
 
 sass:
   sass_dir: _sass
-  style: expanded # compressed, compact, expanded or compressed
+  style: expanded # compact, expanded or compressed
 
 # Category settings
 jekyll-archives:
