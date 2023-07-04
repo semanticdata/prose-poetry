@@ -10,7 +10,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 keywords: [blog, poetry, prose-poetry]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://semanticdata.github.io/jekyll-paper" # base hostname & protocol, e.g. http://example.com
-domain: "example.com" # domain name for site, e.g. example.com
+domain: "semanticdata.github.io/jekyll-paper" # domain name for site, e.g. example.com
 language: en
 # Supported languages list:
 # es: Español (Spanish)
