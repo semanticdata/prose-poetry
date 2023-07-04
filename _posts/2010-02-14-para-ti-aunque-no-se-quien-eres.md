@@ -1,5 +1,5 @@
 ---
-title: Para ti, aunque no se quien eres...
+title: Para ti, aunque no se quien eres
 canonical_url: https://elandres.wordpress.com/2010/02/14/para-ti-aunque-no-se-quien-eres/
 date: 2010-02-14
 layout: post
