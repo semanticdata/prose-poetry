@@ -3,8 +3,6 @@ Based on: [Jekyll-Paper](https://github.com/ghosind/Jekyll-Paper).
 
 ## Features
 
-- Responsive
-- Paginate
 - RSS
 - Sitemap
 - Custom 404 page
@@ -26,10 +24,6 @@ Jekyll Paper is easy to create your own blog. You can create your blog by five s
 3. `$ cd Jekyll-Paper`
 4. `Jekyll-Paper $ bundle install`
 5. `Jekyll-Paper $ bundle exec jekyll serve`
-
-## Add New Posts
-
-You can add new posts at any time after you had your own blog. Create a new post need to add a new file in "_posts" directory, and the file name must follow the convention `YYYY-MM-DD-name-of-post.md`.
 
 ## Custom Navigation Menu
 
