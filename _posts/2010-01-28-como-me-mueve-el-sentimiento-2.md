@@ -1,5 +1,5 @@
 ---
-title: Como me mueve el sentimiento 2...
+title: Como me mueve el sentimiento 2 de 2
 canonical_url: https://elandres.wordpress.com/2010/01/28/como-me-mueve-el-sentimiento-2%e2%80%a6/
 date: 2010-01-28
 layout: post
