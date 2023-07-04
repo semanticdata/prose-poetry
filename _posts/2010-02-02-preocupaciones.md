@@ -1,5 +1,5 @@
 ---
-title: Preocupaciones...
+title: Preocupaciones
 canonical_url: https://elandres.wordpress.com/2010/02/02/preocupaciones/
 date: 2010-02-02
 layout: post
