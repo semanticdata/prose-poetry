@@ -1,5 +1,5 @@
 ---
-title: Los amigos si cuentan...
+title: Los amigos si cuentan
 canonical_url: https://elandres.wordpress.com/2010/01/26/los-amigos-si-cuentan/
 date: 2010-01-26
 layout: post
