@@ -1,5 +1,5 @@
 # Jekyll-Paper
-Based on: [Jekyll-Paper](https://github.com/ghosind/Jekyll-Paper).
+*Based on: [Jekyll-Paper](https://github.com/ghosind/Jekyll-Paper).*
 
 ## Features
 
