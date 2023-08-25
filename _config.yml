@@ -11,7 +11,7 @@ keywords: [blog, poetry, prose-poetry]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://semanticdata.github.io/jekyll-paper" # base hostname & protocol, e.g. http://example.com
 domain: "Miguel Pimentel" # domain name for site, e.g. example.com
-language: [en, es, fr]
+language: [en, es]
 # Supported languages list:
 # es: Español (Spanish)
 # fr: Français (French)

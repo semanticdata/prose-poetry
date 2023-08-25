@@ -9,4 +9,6 @@ Qué cruel eres vida conmigo, que crueldad siniestra es esa con la que me tratas
 
 <!--more-->
 
-¡No! No me falta nada, me sobra de todo. Lo único que me falta es alguien con quien compartirlo. Lo único que me falta es esa persona que me demuestre que quiere ser querida, que me enseñe un mundo nuevo, que me lleve de paseo por sus ojos. Que me dé a conocer su alma con sinceridad y apego a los buenos valores. Busco a alguien que quiera todo este amor que llevo almacenado dentro de mí. Prometo ser todo lo que esperas y mucho más. Seré todo lo que desees y todo lo que me pidas.
+¡No! No me falta nada, me sobra de todo. Lo único que me falta es alguien con quien compartirlo. Lo único que me falta es esa persona que me demuestre que quiere ser querida, que me enseñe un mundo nuevo, que me lleve de paseo por sus ojos.
+
+Que me dé a conocer su alma con sinceridad y apego a los buenos valores. Busco a alguien que quiera todo este amor que llevo almacenado dentro de mí. Prometo ser todo lo que esperas y mucho más. Seré todo lo que desees y todo lo que me pidas.

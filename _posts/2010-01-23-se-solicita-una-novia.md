@@ -9,4 +9,6 @@ Yo quisiera enamorarme de alguien nuevo. Citar lo que a mi parecer serio un nuev
 
 <!--more-->
 
-Yo quiero una novia que me mime y se deje mimar. Que sonría y me haga sonreír. Que me adore y se deje adorar. Yo quiero una novia que me quiera y le guste estar a mi lado, que se esmere por mi amor merecer (que aunque no lo haga se lo daré de igual forma!). Quiero a alguien a quien acariciar, abrazar, mimar, besar, querer. Alguien que de verdad considere divertido estar a mi lado. Que me aprecie. Quiero razones para robar besos, razones para dar abrazos, razones para volverme a enamorar.
+Yo quiero una novia que me mime y se deje mimar. Que sonría y me haga sonreír. Que me adore y se deje adorar. Yo quiero una novia que me quiera y le guste estar a mi lado, que se esmere por mi amor merecer (que aunque no lo haga se lo daré de igual forma!).
+
+Quiero a alguien a quien acariciar, abrazar, mimar, besar, querer. Alguien que de verdad considere divertido estar a mi lado. Que me aprecie. Quiero razones para robar besos, razones para dar abrazos, razones para volverme a enamorar.

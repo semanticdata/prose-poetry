@@ -11,4 +11,6 @@ Y cada vez que te veo me voy de lado con mi amargue. Me voy de lado con mi trist
 
 Cada día que pasa es más difícil dejar de pensar en ti, más difícil dejar de lado esta extraña timidez que me invade de algún modo, que me llena y se hace parte de mí cuando te siento aquí a mi lado.
 
-Sorpresa la mía cuando me entere de las cosas de las cuales soy capaz, de aquellas susceptibles y débiles palabras de caballero que algún día valieron la pena decirlas. Me siento tuyo aunque no lo soy, me siento impropio e impersonal. Esta enfermedad que me ataca desde dentro está acabando con mi sencillez.
+Sorpresa la mía cuando me entere de las cosas de las cuales soy capaz, de aquellas susceptibles y débiles palabras de caballero que algún día valieron la pena decirlas. Me siento tuyo aunque no lo soy, me siento impropio e impersonal.
+
+Esta enfermedad que me ataca desde dentro está acabando con mi sencillez.
