@@ -3,13 +3,13 @@
 # Accessed via {{ site.title }}, {{ site.email }}, and so on.
 # Custom variables will be accessible in templates via {{ site.myvariable }}.
 title: Prose Poetry
-email: little.iron1021@fastmail.com
+email: contact@miguelpimentel.do
 name: Miguel Pimentel
 description: >- # this means to ignore newlines until "baseurl:"
   A look back at my past self.
+baseurl: "/prose-poetry" # the subpath of your site, e.g. /blog
 keywords: [blog, poetry, prose-poetry]
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://semanticdata.github.io/jekyll-paper" # base hostname & protocol, e.g. http://example.com
+url: "https://semanticdata.github.io" # base hostname & protocol, e.g. http://example.com
 domain: "Miguel Pimentel" # domain name for site, e.g. example.com
 language: [en, es]
 # Supported languages list:
