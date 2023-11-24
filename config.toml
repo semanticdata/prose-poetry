@@ -1,0 +1,17 @@
+base_url = "https://semanticdata.github.io/prose-poetry/"
+title = "Prose Poetry"
+description = "A look back at my past self."
+
+compile_sass = true
+build_search_index = false
+minify_html = false
+generate_feed = true
+
+
+[markdown]
+highlight_code = false
+# highlight_theme = "ayu-light"
+
+[extra]
+henry_links = [{ url = "about", name = "About" }]
+henry_github = "https://github.com/semanticdata/prose-poetry/"
